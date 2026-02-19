@@ -1,0 +1,68 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Página-1" id="alaeenNBon-LAHW-H4jE">
+    <mxGraphModel dx="703" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jOn8p4bSblcnfcAu0erD-24" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#FFB570);" target="jOn8p4bSblcnfcAu0erD-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(transparent,#FFB570);strokeColor=light-dark(#000000,#FFFFFF);" value="INÍCIO" vertex="1">
+          <mxGeometry height="80" width="140" x="50" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(transparent,#FFB570);strokeColor=light-dark(#000000,#FFFFFF);" value="TÉRMINO" vertex="1">
+          <mxGeometry height="80" width="140" x="50" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-47" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=light-dark(transparent,#FFB570);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-23" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#FFB570);" value="&quot;Informe um número&quot; = N" vertex="1">
+          <mxGeometry height="80" width="140" x="50" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-63" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=light-dark(transparent,#FFB570);" target="jOn8p4bSblcnfcAu0erD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-54" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#FFB570);strokeColor=light-dark(#000000,#FFFFFF);" value="O primeiro número é maior.&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="140" x="50" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-62" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=light-dark(transparent,#FFB570);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-61" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#FFB570);" value="&quot;Informe outro número&quot;&lt;div&gt;&amp;nbsp;= N2&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="50" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-67" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=light-dark(transparent,#FFB570);" target="jOn8p4bSblcnfcAu0erD-66">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-69" connectable="0" parent="jOn8p4bSblcnfcAu0erD-67" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=light-dark(transparent,#FFB570);" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.4537" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-68" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=light-dark(transparent,#FFB570);" target="jOn8p4bSblcnfcAu0erD-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-70" connectable="0" parent="jOn8p4bSblcnfcAu0erD-68" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=light-dark(transparent,#FFB570);" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.35" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-65" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=light-dark(transparent,#FFB570);" value="O 1ºNum. é maior&amp;nbsp;&lt;div&gt;que o 2º? (N&amp;gt;N2)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="150" x="45" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-71" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-66" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#FFB570);strokeColor=light-dark(#000000,#FFFFFF);" value="O segundo número é maior.&amp;nbsp;" vertex="1">
+          <mxGeometry height="80" width="140" x="260" y="510" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

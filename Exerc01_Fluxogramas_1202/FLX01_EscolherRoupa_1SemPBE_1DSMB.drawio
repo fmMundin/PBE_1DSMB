@@ -1,0 +1,78 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Página-1" id="alaeenNBon-LAHW-H4jE">
+    <mxGraphModel dx="1426" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jOn8p4bSblcnfcAu0erD-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="INÍCIO" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-2" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=#E1D5E7;" value="TÉRMINO" vertex="1">
+          <mxGeometry height="80" width="140" x="530" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-6" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-15" connectable="0" parent="jOn8p4bSblcnfcAu0erD-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#E1D5E7;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.35" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-3" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#E1D5E7;" value="Está frio?" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#E1D5E7;" value="Vestir um casaco" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#E1D5E7;" value="Vestir roupas leves" vertex="1">
+          <mxGeometry height="80" width="140" x="530" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-19" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=#E1D5E7;" value="Abrir um guara-chuva" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-11" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-5" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="245" as="sourcePoint" />
+            <mxPoint x="600" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-16" connectable="0" parent="jOn8p4bSblcnfcAu0erD-11" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#E1D5E7;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.2952" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-17" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-21" connectable="0" parent="jOn8p4bSblcnfcAu0erD-17" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#E1D5E7;" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.25" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-18" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-20" connectable="0" parent="jOn8p4bSblcnfcAu0erD-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=#E1D5E7;" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.3143" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-8" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=#E1D5E7;" value="Está chovendo?" vertex="1">
+          <mxGeometry height="80" width="140" x="330" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-12" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-14" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-22" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#E1D5E7;" target="jOn8p4bSblcnfcAu0erD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
