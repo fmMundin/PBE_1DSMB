@@ -1,0 +1,90 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.4.0">
+  <diagram name="Página-1" id="alaeenNBon-LAHW-H4jE">
+    <mxGraphModel dx="703" dy="776" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#000000)" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="jOn8p4bSblcnfcAu0erD-133" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-134" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="INÍCIO" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-135" parent="1" style="ellipse;whiteSpace=wrap;html=1;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="TÉRMINO" vertex="1">
+          <mxGeometry height="80" width="140" x="250" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-136" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-137" connectable="0" parent="jOn8p4bSblcnfcAu0erD-136" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.05" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-138" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Ficou até&amp;nbsp;&lt;div&gt;uma hora?&lt;/div&gt;&lt;div&gt;(h&amp;lt;=1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-139" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-140" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Pagar 15 reais" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-141" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=light-dark(transparent,#7EA6E0);entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#FFFFFF);" target="jOn8p4bSblcnfcAu0erD-151" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="285" as="sourcePoint" />
+            <mxPoint x="310" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-142" connectable="0" parent="jOn8p4bSblcnfcAu0erD-141" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.2952" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-143" parent="1" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" value="&quot;Quantas horas ficou no estacionamento?&quot; = h" vertex="1">
+          <mxGeometry height="80" width="140" x="40" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-144" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-145" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-146" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-146" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Valor a Pagar será Horas excedentes multiplicado&amp;nbsp; por 3 mais 15.&lt;div&gt;(Valor = horaEX * 3 + 15)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="450" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-147" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-148" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-148" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Horas excedentes serão a quantidade de horas menos um.&lt;div&gt;(horaEX = h - 1)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="450" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-149" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-155" connectable="0" parent="jOn8p4bSblcnfcAu0erD-149" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="NÃO" vertex="1">
+          <mxGeometry relative="1" x="-0.16" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-150" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-151" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-153">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-154" connectable="0" parent="jOn8p4bSblcnfcAu0erD-150" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="SIM" vertex="1">
+          <mxGeometry relative="1" x="-0.1" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-151" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Ficou o dia todo&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;?&lt;/span&gt;&lt;div&gt;(h&amp;gt;=24)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="140" x="250" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-152" edge="1" parent="1" source="jOn8p4bSblcnfcAu0erD-153" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FFFFFF);fillColor=light-dark(transparent,#7EA6E0);" target="jOn8p4bSblcnfcAu0erD-135">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jOn8p4bSblcnfcAu0erD-153" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fillColor=light-dark(transparent,#7EA6E0);strokeColor=light-dark(#000000,#FFFFFF);" value="Pagar 30 reais" vertex="1">
+          <mxGeometry height="80" width="140" x="250" y="520" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
